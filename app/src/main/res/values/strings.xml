@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">企鹅电竞</string>
+    <string name="title1">热门</string>
+    <string name="title8">梦工厂</string>
+    <string name="title9">和平精英</string>
+    <string name="title7">王者荣耀</string>
+    <string name="title12">英雄联盟</string>
+    <string name="title11">绝地求生</string>
+    <string name="title10">语音交友</string>
+    <string name="title13">更多</string>
+    <string name="title2">热门直播</string>
+    <string name="title3">全英雄上王者教学</string>
+    <string name="title4">王者荣耀</string>
+    <string name="title5">魂斗罗：归来燃魂战队联赛</string>
+    <string name="title6">魂斗罗归来</string>
+</resources>
